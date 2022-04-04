@@ -67,8 +67,8 @@ index.py Example
 
 Generated Site
 ~~~~~~~~~~~~~~
-.. image:: https://raw.githubusercontent.com/mario1842/mariocard.py/main/site.png
-   :target: https://raw.githubusercontent.com/mario1842/mariocard.py/main/site.png
+.. image:: https://github.com/mario1842/webthon/blob/main/site.png
+   :target: https://github.com/mario1842/webthon/blob/main/site.png
    :alt: Created site from example code.
 
 Links
